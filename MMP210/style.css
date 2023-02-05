@@ -1,4 +1,7 @@
 body{
-    background-color: darkmagenta;
-    img {width: 250;}
+    background-color: rgb(139, 83, 0);
 }
+    img {border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;}
